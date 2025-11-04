@@ -1,19 +1,25 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Dream 9 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+We need more sample with cliff hanging techniques espcially dealing with
+this series. Here's another track for video background music uses.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #synth #passionate #instrumental
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Dream-9.mp3
+  Size: 8556544         Blocks: 16712      IO Block: 4096   regular file
+Access: 2025-11-04 13:52:51.411896620 +0800
+Modify: 2025-11-04 13:53:03.147947557 +0800
+Change: 2025-11-04 13:53:11.151982293 +0800
+ Birth: 2025-07-20 11:53:47.682248733 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-08
+On YouTube since : 2025-10-04
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=MQH0r5FyK0Q)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +52,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Dream 9
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-dream-9
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
